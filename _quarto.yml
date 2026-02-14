@@ -1,8 +1,10 @@
 project:
   type: website
+  render: 
+    - "*.qmd"
 
 website:
-  title: "temp"
+  title: "fran website"
   navbar:
     left:
       - href: index.qmd
