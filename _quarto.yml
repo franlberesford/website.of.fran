@@ -3,16 +3,20 @@ project:
   render: 
     - "*.qmd"
   output-dir: docs
+# 
+# # Meta
+# description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+# author-meta: "Dr. Gang He"
 
 website:
   title: "Fran Beresford (she/they) Website"
   image: "https://quarto.org/quarto.png"
   description: "My homepage"
   
-  
   navbar:
-  background: light  # You can change the background color here
-  left:  # You can comment out all navigation items here if you just like to keep the index page only
+    background: light  # You can change the background color here
+    
+    left:  # You can comment out all navigation items here if you just like to keep the index page only
       - href: index.qmd
         text: Home
       - text: About me 
@@ -28,60 +32,41 @@ website:
       - text: Outreach
         href: outreach.qmd        
    
-  right: 
+    right: 
       #- text: CV
         #href: files/nsf-biosketch.pdf
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
         target: _blank   
 
-
-format:
-  html:
-    theme:
-      - minty
-      - brand
-    css: styles.css
-    toc: true
-
-
-# Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
-
-
-
   page-navigation: true
-  
-  page-footer: 
-    left: "[Fran Beresford](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
+
+  page-footer:
+    left: "[Fran Beresford](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>"
     center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
-    right:  
+    right:
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
         target: _blank
 
-  
   search:
     location: navbar
     type: textbox
-  
+
   reader-mode: true
 
-  draft-mode: unlinked
-  
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
-#  repo-actions: [edit, issue, source]
-  
-  open-graph: true
-  
+  #draft-mode: unlinked
 
- 
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
-  
+  #repo-url: https://github.com/drganghe/quarto-academic-website-template
+#  repo-actions: [edit, issue, source]
+
+  open-graph: true
+
+  #site-url: "https://drganghe.github.io/quarto-academic-website-template"
+
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID
-    anonymize-ip: true 
+    anonymize-ip: true
 
 #bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
 
@@ -99,4 +84,4 @@ format:
     link-external-newwindow: true
     email-obfuscation: javascript
   #  link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
-    include-in-header: "files/includes/_academic.qmd"
+    #include-in-header: "files/includes/_academic.qmd"

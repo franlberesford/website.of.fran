@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Service/ outreach"
 editor: 
   markdown: 
     wrap: sentence
@@ -7,8 +7,7 @@ editor:
 
 Here are some placeholder bullet points:
 
--   I was born in the North of England, specifically an ex-mining town.
--   I completed my Master of Mathematics (Hons) with an industrial placement year at the Department of Health at the University of Bath and graduated with First Class Honours.
--   After spending 3 months as an au pair in Barcelona and a further 6 months working for the UK Department for Work and Pensions I was ready to move to California to start the next chapter.
--   I started my PhD at the University of California Irvine in September of 2020.
--   I will be graduating from UCI in September.
+-   Event coordinator Bath University Maths Society
+-   Queer \& Trans in STEM board at UCI 
+-   Queer Graduate Caucus Board at UCI 
+-   Graduate Student Council representative 3 years 
