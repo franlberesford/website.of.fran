@@ -1,14 +1,8 @@
 ---
-title: "About"
+title: "Publications and Conferennce Talks"
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-Here are some placeholder bullet points:
-
--   I was born in the North of England, specifically an ex-mining town.
--   I completed my Master of Mathematics (Hons) with an industrial placement year at the Department of Health at the University of Bath and graduated with First Class Honours.
--   After spending 3 months as an au pair in Barcelona and a further 6 months working for the UK Department for Work and Pensions I was ready to move to California to start the next chapter.
--   I started my PhD at the University of California Irvine in September of 2020.
--   I will be graduating from UCI in September.
+I have presented on multiple occasions at both the Joint Statistical Meeting from ASA and Sunbelt from INSNA.

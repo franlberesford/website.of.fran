@@ -1,6 +1,5 @@
 ---
-title: "Fran Beresford (she/they)"
+title: "Projects I am working on"
 ---
 
-Clearly, this site is a WIP but will soon be updated with all of the interesting things I am achieving. 
-
+I am working on a variety of things. Social network data and proteins mostly for now. 
