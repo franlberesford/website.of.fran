@@ -12,7 +12,7 @@ website:
   
   navbar:
   background: light  # You can change the background color here
-    left:  # You can comment out all navigation items here if you just like to keep the index page only
+  left:  # You can comment out all navigation items here if you just like to keep the index page only
       - href: index.qmd
         text: Home
       - text: About me 
@@ -28,7 +28,7 @@ website:
       - text: Outreach
         href: outreach.qmd        
    
-    right: 
+  right: 
       #- text: CV
         #href: files/nsf-biosketch.pdf
       - icon: github
