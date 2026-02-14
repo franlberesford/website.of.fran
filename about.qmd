@@ -1,9 +1,14 @@
 ---
 title: "About"
+editor: 
+  markdown: 
+    wrap: sentence
 ---
 
-About this site
+Here are some placeholder bullet points:
 
-```{r}
-1 + 1
-```
+-   I was born in the North of England, specifically an ex-mining town.
+-   I completed my Master of Mathematics (Hons) with an industrial placement year at the Department of Health at the University of Bath and graduated with First Class Honours.
+-   After spending 3 months as an au pair in Barcelona and a further 6 months working for the UK Department for Work and Pensions I was ready to move to California to start the next chapter.
+-   I started my PhD at the University of California Irvine in September of 2020.
+-   I will be graduating from UCI in September.
