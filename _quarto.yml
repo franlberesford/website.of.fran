@@ -5,7 +5,7 @@ project:
   output-dir: docs
 
 website:
-  title: "fran website"
+  title: "Fran Beresford (she/they)"
   navbar:
     left:
       - href: index.qmd
@@ -15,7 +15,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - minty
       - brand
     css: styles.css
     toc: true
