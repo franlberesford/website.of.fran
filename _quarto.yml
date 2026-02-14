@@ -20,7 +20,7 @@ website:
       - href: index.qmd
         text: Home
       - text: About me 
-      - about.qmd      
+        href: about.qmd      
       - text: Research
         menu:
           - text: List of Publications
