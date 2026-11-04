@@ -5,10 +5,11 @@ editor:
     wrap: sentence
 ---
 
-Here are some placeholder bullet points:
+In summary:
 
--   I was born in the North of England, specifically an ex-mining town.
--   I completed my Master of Mathematics (Hons) with an industrial placement year at the Department of Health at the University of Bath and graduated with First Class Honours.
+-   My love of statistics was born when I was informed I didn't have a choice in taking a class for my Maths A-Level in the UK, which I then continued with to gain an entire A-Level in Statistics. (A-Levels are qualifications one completes during the ages of 16-18 in the UK.)
+-   I completed my MMath Degree, an integrated Masters degree with a year-long working placement, at the University of Bath, UK. There I won the James Duthie Award upon graduation, which is awarded to an outstanding graduate of the maths department. I gained my degree with First Class Honours. 
+-   I gained a good mathematical foundation during my agree - classes of 
 -   After spending 3 months as an au pair in Barcelona and a further 6 months working for the UK Department for Work and Pensions I was ready to move to California to start the next chapter.
 -   I started my PhD at the University of California Irvine in September of 2020.
 -   I will be graduating from UCI in September.
