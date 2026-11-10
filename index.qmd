@@ -2,5 +2,12 @@
 title: "Fran Beresford (she/they)"
 ---
 
-Clearly, this site is a WIP but will soon be updated with all of the interesting things I am achieving. 
+I am currently finishing my Phd in the Networks, Computational Analysis and Social Dynamics Lab led by Professor Butts at the University of California, Irvine.
 
+I am on the job market and am excited to move onto the next stage of my career as a postdoctoral researcher - my interests are environmental statistics and health policy. I work primarily with Bayesian methods on network data but I have also worked with remote sensing data. In an ML context I have used random features to estimate non-parametric coefficients for Exponential Family Random Graph Models. 
+
+I am originally from the UK (northern England) and have also lived in Barcelona, Spain as an au-pair before starting graduate school. 
+
+I have worked as a statistician for the UK Civil Service full time in two different positions, in the Department for Health and Social Care and the Department for Work and Pensions. 
+
+A big part of my life during my student career has been involvement with the graduate student government / student social clubs. At my undergraduate institution I was the social coordinator for the student Maths society as well as a volunteer during Welcome Week. In graduate school I sat on the graduate school council for 4 years and held both paid and unpaid positions for the UCI Associated Graduate Students. 
